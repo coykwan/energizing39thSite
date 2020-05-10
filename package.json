@@ -1,0 +1,29 @@
+{
+  "name": "energizing39th",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coykwan/energizing39th.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/coykwan/energizing39th/issues"
+  },
+  "homepage": "https://github.com/coykwan/energizing39th#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.9.8",
+    "@material-ui/styles": "^4.9.6",
+    "next": "^9.3.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
