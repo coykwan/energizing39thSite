@@ -33,7 +33,7 @@ export default () => {
                         <Typography className={classes.body} variant="h6">
                             We are a local nutrition club that serves healthy shakes, energizing teas, and aloe vera. We have fun, friendly, and passionate coaches who want to get to know you and help you become healthier and happier.
                             We offer free wellness profiles, information on how to make our healthy shakes at home, and education on living a healthy, active lifestyle.
-                            We have options for breakfast, lunch, and dinner to fuel your day! Energizing Mission is committed to providing the best nutrition and weight management products in the KC metro area!
+                            We have options for breakfast, lunch, and dinner to fuel your day! Energizing39th is committed to providing the best nutrition and weight management products in the KC metro area!
                         </Typography>
                     </div>
                 </Grid>
